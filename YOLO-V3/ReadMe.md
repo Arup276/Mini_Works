@@ -18,10 +18,44 @@ If want to more about YOLO-V3 then you check [here](https://towardsdatascience.c
 
 # Step-1: 
 ### Download:
-###         case-1: Download the zip of this repo and extract it.
-###                 And notice that after dowload file format should be this 
+###         case-1:
+Download the zip of this repo and extract it.
+And notice that after dowload file format should be this 
 
 ![format](https://user-images.githubusercontent.com/32811517/52165263-4d423000-2724-11e9-8f00-62dd00d120af.PNG)
 ## In this case you have to go `D:\YOLO-V3\bin` this ``` bin``` folder and extract the zip file
 ![weight_ext](https://user-images.githubusercontent.com/32811517/52165373-1a993700-2726-11e9-830b-995642347e58.PNG)
 (like shown in image just extract that)
+
+
+### Case-2:
+Or you can download all the file from my google drive [here](https://drive.google.com/drive/u/3/folders/1JWjKtp9UXEFNrJBBVZKEG3_UOhRRTyrj)
+
+Now if think that so why i upload this file file on github ? simple answer is Just for looks good😂.
+
+Ok so next move on to step-2. 
+
+
+# step-2:
+
+### Download OpenCV from [here] automatically downlaod will start (https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.3.0/opencv-3.3.0-vc14.exe/download).
+
+
+now guys here little thing to do
+
+# 1.
+Go to ```C:\``` if you see any version of openCV then remane it to some thing else or delete it (easy one😁).
+
+# 2.
+then extract the downloaded OpenCV in ```C:/``` like this below image
+
+![opencv_ext](https://user-images.githubusercontent.com/32811517/52165569-90060700-2728-11e9-95df-a6ac8ecbf52f.PNG)
+
+# 3.
+After extracting if its name is some thing else then just rename and make it this below image one ```C:\opencv_3.0\opencv```
+![opencv](https://user-images.githubusercontent.com/32811517/52165602-ef641700-2728-11e9-9699-22e945a44a9e.PNG)
+
+
+
+
+### Open ```cmd``` in 
