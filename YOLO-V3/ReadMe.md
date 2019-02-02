@@ -6,7 +6,7 @@ If want to more about YOLO-V3 then you check [here](https://towardsdatascience.c
 
  So recently i was playing with yolo-v3 (i was also do little bit yolo-v2) and since now a days PUBG moblie is very famous to i tried this yolo on pubg.Though i don't get high accuracy but it's ok because i was trained this model just around 300 hundred of images(i was too much excited about that) but now i know little about the procedure so again i will do with more images.
 
-
+# This is my model demo
 
 ![car](https://user-images.githubusercontent.com/32811517/52165274-782c8400-2724-11e9-8df5-82a879d7ca96.PNG)
 
@@ -17,5 +17,6 @@ If want to more about YOLO-V3 then you check [here](https://towardsdatascience.c
 # How You Can Use My model?
 
 ### Step-1: Download the zip of this repo and extract it.
+### And notice that format should be this 
+
 ![format](https://user-images.githubusercontent.com/32811517/52165263-4d423000-2724-11e9-8f00-62dd00d120af.PNG)
-### Notice that format should be this 
