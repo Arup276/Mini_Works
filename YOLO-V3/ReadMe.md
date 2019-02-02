@@ -43,10 +43,10 @@ now guys here little thing to do
 # 1.
 Go to ```C:\``` if you see any version of openCV then remane it to some thing else or delete it (easy one😁).
 # 2.
-then extract the downloaded OpenCV in ```C:/``` like this below image
-![opencv_ext](https://user-images.githubusercontent.com/32811517/52165569-90060700-2728-11e9-95df-a6ac8ecbf52f.PNG)
+then extract the downloaded OpenCV in ```C:/``` like this below image![opencv_ext](https://user-images.githubusercontent.com/32811517/52165569-90060700-2728-11e9-95df-a6ac8ecbf52f.PNG)
 # 3.
 After extracting if its name is some thing else then just rename and make it this below image one ```C:\opencv_3.0\opencv```
+
 ![opencv](https://user-images.githubusercontent.com/32811517/52165602-ef641700-2728-11e9-9699-22e945a44a9e.PNG)
 
 
