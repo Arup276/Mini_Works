@@ -6,7 +6,7 @@ If want to more about YOLO-V3 then you check [here](https://towardsdatascience.c
 
  So recently i was playing with yolo-v3 (i was also do little bit yolo-v2) and since now a days PUBG moblie is very famous to i tried this yolo on pubg.Though i don't get high accuracy but it's ok because i was trained this model just around 300 hundred of images(i was too much excited about that) but now i know little about the procedure so again i will do with more images.
 
-# This is my model demo
+# This is my model demo([Video demo](https://www.youtube.com/watch?v=hIV3EJVeiA4&t=9s))
 
 ![car](https://user-images.githubusercontent.com/32811517/52165274-782c8400-2724-11e9-8df5-82a879d7ca96.PNG)
 
@@ -51,7 +51,7 @@ After extracting if openCV has name some thing else rather than this imagen one 
 ![opencv](https://user-images.githubusercontent.com/32811517/52165602-ef641700-2728-11e9-9699-22e945a44a9e.PNG)
 
 # Step-3:
-Open ```cmd``` under YOLO-V3 folder and run this command```darknet_no_gpu.exe detect cfg/yolov3_tiny_pubg.cfg bin/yolov3_tiny_pubg_2000.weights data/pubgcar.jpg```
+Open ```cmd``` under YOLO-V3 folder and run this command :```darknet_no_gpu.exe detect cfg/yolov3_tiny_pubg.cfg bin/yolov3_tiny_pubg_2000.weights data/pubgcar.jpg```
 if you follow the above steps then it should work and it will pop up a predicted image.
 Congrats you successfully run YOLO-V3.
 
