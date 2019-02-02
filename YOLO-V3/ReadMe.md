@@ -16,12 +16,12 @@ If want to more about YOLO-V3 then you check [here](https://towardsdatascience.c
 
 # How You Can Use My model?
 
-### Step-1: 
+# Step-1: 
 ### Download:
 ###         case-1: Download the zip of this repo and extract it.
 ###                 And notice that after dowload file format should be this 
 
 ![format](https://user-images.githubusercontent.com/32811517/52165263-4d423000-2724-11e9-8f00-62dd00d120af.PNG)
-## In this case you have to go ```D:\YOLO-V3\bin``` this ``` bin``` folder and extract the zip file
+## In this case you have to go `D:\YOLO-V3\bin` this ``` bin``` folder and extract the zip file
 ![weight_ext](https://user-images.githubusercontent.com/32811517/52165373-1a993700-2726-11e9-830b-995642347e58.PNG)
 (like shown in image just extract that)
