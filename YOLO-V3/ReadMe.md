@@ -45,11 +45,23 @@ Go to ```C:\``` if you see any version of openCV then remane it to some thing el
 # 2.
 then extract the downloaded OpenCV in ```C:/``` like this below image![opencv_ext](https://user-images.githubusercontent.com/32811517/52165569-90060700-2728-11e9-95df-a6ac8ecbf52f.PNG)
 # 3.
-After extracting if its name is some thing else then just rename and make it this below image one ```C:\opencv_3.0\opencv```
+After extracting if openCV has name some thing else rather than this imagen one ,then just rename and make it this below image one and the path of open should be this : ```C:\opencv_3.0\opencv``` .
+
 
 ![opencv](https://user-images.githubusercontent.com/32811517/52165602-ef641700-2728-11e9-9699-22e945a44a9e.PNG)
 
+# Step-3:
+Open ```cmd``` under YOLO-V3 folder and run this command```darknet_no_gpu.exe detect cfg/yolov3_tiny_pubg.cfg bin/yolov3_tiny_pubg_2000.weights data/pubgcar.jpg```
+if you follow the above steps then it should work and it will pop up a predicted image.
+Congrats you successfully run YOLO-V3.
+
+# Explaination of this code:
+```darknet_no_gpu.exe```: Running darknet no GPU version.
+```detect```: This command is for process images for video code is ```demo``` we will do it later.
+```cfg/yolov3_tiny_pubg.cfg ```: Path of ```cfg``` file.
+```bin/yolov3_tiny_pubg_2000.weights```: Path of weights.
+```data/pubgcar.jpg```: path of the image.
+
+enjoy feel free to try your own images.
 
 
-
-### Open ```cmd``` in 
