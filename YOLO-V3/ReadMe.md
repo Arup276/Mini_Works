@@ -64,6 +64,11 @@ Congrats you successfully run YOLO-V3.
 ```bin/yolov3_tiny_pubg_2000.weights```: Path of weights.
 ```data/pubgcar.jpg```: path of the image.
 
+# YOLO on video file
+just run this command: ```darknet_no_gpu.exe detector demo cfg/coco.data cfg/yolov3_tiny_pubg.cfg bin/yolov3_tiny_pubg_2000.weights -dont_show videofile_name.mp4 -i 0 -out_filename result.avi```  (don't use more than 1 or 2 min video because if you no gpu then its gonna take to much time to process it)
+
+your video file will be saved in result.avi  
+
 enjoy feel free to try your own images.
 
 
