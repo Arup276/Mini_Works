@@ -23,7 +23,7 @@ Download the zip of [this](https://github.com/Arup276/Mini_Works/edit/master/YOL
 And notice that after dowload file format should be this 
 
 ![format](https://user-images.githubusercontent.com/32811517/52165263-4d423000-2724-11e9-8f00-62dd00d120af.PNG)
-## In this case you have to go `D:\YOLO-V3\bin` this ``` bin``` folder and extract the zip file
+## In this case after extracting you will see a ```bin``` folder you have to go their  `D:\YOLO-V3\bin` this ``` bin``` folder and extract the zip file(to get the full weights).
 ![weight_ext](https://user-images.githubusercontent.com/32811517/52165373-1a993700-2726-11e9-830b-995642347e58.PNG)
 (like shown in image just extract that)
 
